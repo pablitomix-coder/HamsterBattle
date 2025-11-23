@@ -1,0 +1,65 @@
+# ========== Unity Core ==========
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+Assets/AssetStoreTools*
+
+# ========== Unity Cloud / Collaborate / Plastic SCM ==========
+.collab/
+.collabignore
+.plastic/
+.plastic-cache/
+*.pidb
+*.suo
+*.user
+*.userprefs
+*.unityproj
+*.booproj
+*.svd
+
+# ========== IDEs and Editors ==========
+.vscode/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.sln*
+*.tmproj
+
+# ========== OS-specific ==========
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ========== Logs and Crash Reports ==========
+*.log
+*.stacktrace
+
+# ========== Auto-generated ==========
+ProjectSettings/UnityConnectSettings.asset
+ProjectSettings/ProjectVersion.txt
+
+# ========== Builds and Exports ==========
+*.apk
+*.aab
+*.xcodeproj
+*.xcworkspace
+*.pbxproj
+*.ipa
+*.exe
+*.app
+*.msi
+
+# ========== Misc ==========
+*.swp
+*.bak
+*.orig
+*.tmp
+*.cache
+*.prefs
+*.pid
+
+# ========== Unity Cache ==========
+UnityCache/
